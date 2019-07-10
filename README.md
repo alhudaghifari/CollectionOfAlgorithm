@@ -1,4 +1,4 @@
-# CollectionOfAlgorithm
+# Collection of Algorithm
 This repo contains a collection of algorithm implementations written by myself
 
 ## Installation
